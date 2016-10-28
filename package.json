@@ -1,0 +1,17 @@
+{
+  "name": "allons-y-dev-chore",
+  "version": "1.0.0",
+  "description": "Tools box to manage, publish and more the allons-y projects",
+  "license": "MIT",
+  "homepage": "https://allons-y.io",
+  "author": "CodeCorico <hello@codecorico.com>",
+  "bugs": "https://github.com/CodeCorico/allons-y-dev-chore/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeCorico/allons-y-dev-chore.git"
+  },
+  "engines": {
+    "node": ">=4.1",
+    "npm": ">=3.2"
+  }
+}
