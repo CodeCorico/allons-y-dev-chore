@@ -123,7 +123,7 @@ _package()
 
       commitMessage = commitMessage.join('):').trim();
 
-      if (!SECTIONS[commitType] || commitScope == 'project') {
+      if (!SECTIONS[commitType] || commitScope == 'project' || commitScope == 'package') {
         return;
       }
 
