@@ -16,6 +16,10 @@ var SECTIONS = {
       perf: {
         name: 'Performance Improvements',
         commits: []
+      },
+      docs: {
+        name: 'Documentation',
+        commits: []
       }
     },
     VERSION_HEAD_TEMPLATE = [
